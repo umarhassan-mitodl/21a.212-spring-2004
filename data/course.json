@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Religion"
+    ],
+    [
+      "Social Science",
+      "Anthropology"
+    ],
+    [
+      "Humanities",
+      "Linguistics",
+      "Semantics"
+    ]
+  ],
+  "legacy_uid": "245b35fa-313d-d177-bc2d-63e558956105",
+  "instructors": {
+    "content": [
+      "f81a8d83-4d80-54af-9ebb-f27a53e561f1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2226fd00-5b68-f4d2-9283-c086ea842323",
+    "website": "21a-212-myth-ritual-and-symbolism-spring-2004"
+  },
+  "course_title": "Myth, Ritual, and Symbolism",
+  "course_description": "Human beings are symbol-making as well as tool-making animals. We understand our world and shape our lives in large part by assigning meanings to objects, beings, and persons; by connecting things together in symbolic patterns; and by creating elaborate forms of symbolic action and narrative.\u00a0In this introductory subject we consider how symbols are created and structured; how they draw on and give meaning to different domains of the human world; how they are woven into politics, family life, and the life cycle; and how we can interpret them.\n\nThe semester will be devoted to a number of topics in symbolism.\n\n1.  Metaphor and Other Figurative Language\n2.  The Raw Materials of Symbolism, especially Animals and The Human Body\n3.  Cosmology and Complex Symbolic Systems\n4.  Ritual, including Symbolic Curing and Magic\n5.  Narrative and Life\n6.  Mythology\n",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21A.212",
+  "course_image_thumbnail": {
+    "content": "6911e6a0-8fc1-6eaf-fc25-849468385005",
+    "website": "21a-212-myth-ritual-and-symbolism-spring-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "f4941fe5-407f-4fc3-b0ef-764d3568d3d7",
+  "site_short_id": "21a.212-spring-2004",
+  "site_url_path": "courses/21a-212-myth-ritual-and-symbolism-spring-2004",
+  "title": "Course Metadata"
+}
